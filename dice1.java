@@ -1,7 +1,7 @@
 import java.util.Random;
 import java.util.Scanner;
 
-	public class dice {
+	public class dice1{
 		public static void main(String args[]) {
 			Random rad = new Random();
 			Scanner scan = new Scanner(System.in);
